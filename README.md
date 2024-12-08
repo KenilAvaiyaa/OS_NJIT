@@ -29,7 +29,9 @@ It uses PyQt5 for the visulatation and numpy for data which are taking from user
 
 The application will launch, and you can interact with the memory blocks through the GUI.
 
-## Notes
+## Reference
 
-- This project is designed for educational purposes to demonstrate memory allocation concepts visually.
-- Feel free to modify and expand upon the code for further experimentation.
+- [PyQt5 Documentation](https://doc.qt.io/qtforpython/)
+- [NumPy Documentation](https://numpy.org/doc/)
+- [Memory Block Visualization](https://www.youtube.com/watch?v=Q8NcysUF4OY&t=257s)
+- https://www.google.com/search?client=safari&rls=en&q=memory+allocation+simulator&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:0493cf2b,vid:Agkk0BppEBI,st:0
